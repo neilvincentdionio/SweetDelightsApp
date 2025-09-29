@@ -1,0 +1,17 @@
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\bin\Debug\SweetDelightsApp.exe.config
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\bin\Debug\SweetDelightsApp.exe
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\bin\Debug\SweetDelightsApp.pdb
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\bin\Debug\SweetDelightsApp.xml
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.vbproj.AssemblyReference.cache
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.frmCustomer.resources
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.frmMain.resources
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.frmOrder.resources
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.frmProducts.resources
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.frmReceipt.resources
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.Resources.resources
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.vbproj.GenerateResource.cache
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.vbproj.CoreCompileInputs.cache
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.exe
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.xml
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.pdb
+C:\Users\Neil\source\repos\SweetDelightsApp\SweetDelightsApp\obj\Debug\SweetDelightsApp.exe.config
